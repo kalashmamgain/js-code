@@ -574,3 +574,5 @@ let a=arr.reduce((x1,x2)=>{
 })
 
 console.log(a)
+
+*/
